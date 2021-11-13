@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Config</comment>
+<entry key="filename">Top 100 Products of Category Mobile Phones from Tokopedia</entry>
+<entry key="pagination-classname">css-txlndr-unf-pagination</entry>
+<entry key="product-classname">e1nlzfl3</entry>
+<entry key="promoted-product-classname">css-1f8sh1y</entry>
+<entry key="product-name-classname">css-1bjwylw</entry>
+<entry key="product-price-classname">css-o5uqvq</entry>
+<entry key="product-image-classname">css-t8frx0</entry>
+<entry key="product-review-count-classname">css-153qjw7</entry>
+<entry key="merchant-name-classname">css-1kr22w3</entry>
+<entry key="product-image-select">div[class=css-1b60o1a]</entry>
+<entry key="product-description-select">span[class=css-168ydy0 e1iszlzh1]</entry>
+<entry key="product-rating-select">meta[itemprop=ratingValue]</entry>
+</properties>
